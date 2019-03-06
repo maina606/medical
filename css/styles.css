@@ -1,0 +1,101 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.container{
+  width: 100%;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+#showHide1{
+display: none;
+}
+#showHide2{
+display: none;
+}
+#showHide3{
+display: none;
+}
+#showHide4{
+display: none;
+}
+#showHide5{
+display: none;
+}
+#showHide6{
+display: none;
+}
+
+#firstAid{
+  color: #cc3300;
+}
+.injuriesHeadings{
+  color: #669999;
+  font-size:3rem;
+}
+#clickable1{
+  text-decoration: underline;
+  cursor: pointer;
+  /* color: #0088cc; */
+  color: red;
+  /* float:left; */
+}
+
+#clickable2{
+  text-decoration: underline;
+  cursor: pointer;
+  /* color: #0088cc; */
+  color: red;
+  /* float:left; */
+}
+
+#clickable3{
+  text-decoration: underline;
+  cursor: pointer;
+  /* color: #0088cc; */
+  color: red;
+  /* float:left; */
+}
+
+#clickable4{
+  text-decoration: underline;
+  cursor: pointer;
+  /* color: #0088cc; */
+  color: red;
+  /* float:left; */
+}
+
+#clickable5{
+  text-decoration: underline;
+  cursor: pointer;
+  /* color: #0088cc; */
+  color: red;
+  /* float:left; */
+}
+
+#clickable6{
+  text-decoration: underline;
+  cursor: pointer;
+  /* color: #0088cc; */
+  color: red;
+  /* float:left; */
+}
+
+.headingBold{
+  font-weight: bold;
+}
+
+.VideoBold{
+  font-weight: bolder;
+  font-size: 20px;
+  color:green;
+}
+.jumbotron{
+  background-color:#1D3639;
+}
+.panel-title{
+  font-size: 2rem;
+}
